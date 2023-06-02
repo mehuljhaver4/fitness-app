@@ -8,22 +8,22 @@ Welcome to the Fitness App! This web application allows users to view different 
 
 ## Features
 
-- View a List of Exercises: Browse through a collection of effective exercises with titles, descriptions, video and more.
-- Filter exercises: User can filter exercises based on different body parts, and target muscle.
-- Exercise Videos: User can find multiple videos of the same exercise to train better.
-- Recommend exercises: Users will also be able to get recommendations about similar exercises depending on the target muscle and equipment.
+- **View a List of Exercises:** Browse through a collection of effective exercises with titles, descriptions, video and more.
+- **Filter exercises:** User can filter exercises based on different body parts, and target muscle.
+- **Exercise Videos:** User can find multiple videos of the same exercise to train better.
+- **Recommend exercises:** Users will also be able to get recommendations about similar exercises depending on the target muscle and equipment.
 
 
 ## Technologies Used
 
-- Frontend: React.js, Material UI
-- Data: RapidAPI (ExerciseDB and YouTube Search)
+- **Frontend:** React.js, Material UI
+- **Data:** RapidAPI (ExerciseDB and YouTube Search)
 
 ## Setup
 
 1. Clone the repository:
    
-   git clone https://github.com/your-username/fitness-app.git
+   git clone https://github.com/mehuljhaver4/fitness-app.git
 
 2. Install dependencies:
     - cd fintess-app
